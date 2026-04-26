@@ -1,0 +1,27 @@
+{
+  "site": {
+    "enabled": true,
+    "publish_dir": "site"
+  },
+  "note": {
+    "enabled": true,
+    "auto_post": false,
+    "reason": "note has no broadly available official public posting API. Draft generation is automated; publishing is manual."
+  },
+  "x": {
+    "enabled": true,
+    "auto_post": false,
+    "reason": "Use queue/intents first. Enable official API only after budget and policy checks."
+  },
+  "instagram": {
+    "enabled": true,
+    "auto_post": false,
+    "reason": "Use Meta Business Suite or official Graph API after professional account setup."
+  },
+  "youtube": {
+    "enabled": true,
+    "auto_post": false,
+    "reason": "Use Shorts scripts and descriptions first. API upload can be added later."
+  }
+}
+

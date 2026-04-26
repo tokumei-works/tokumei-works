@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tokumei-works.github.io/tokumei-works/sitemap.xml

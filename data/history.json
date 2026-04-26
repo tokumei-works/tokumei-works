@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-04-26T07:11:38+00:00",
+  "published_products": [],
+  "social_posts": [
+    {
+      "file": "dist\\social_queue.csv"
+    },
+    {
+      "file": "dist\\x_intents.json"
+    }
+  ]
+}

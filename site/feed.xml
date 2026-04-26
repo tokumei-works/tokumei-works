@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>匿名ワークス</title>
+  <link>https://tokumei-works.github.io/tokumei-works/</link>
+  <description>note有料ミニ商品、テンプレート、チェックリストを中心に、匿名で始める小さな収益化を支援します。</description>
+  <item>
+  <title>匿名ミニ収益化スターターキット</title>
+  <link>https://tokumei-works.github.io/tokumei-works/products/starter-kit/</link>
+  <guid>https://tokumei-works.github.io/tokumei-works/products/starter-kit/</guid>
+  <description>匿名アカウントで最初の有料商品を出すまでの準備、販売文、投稿導線を一式にしたチェックリストです。</description>
+</item><item>
+  <title>30日分SNS投稿テンプレート</title>
+  <link>https://tokumei-works.github.io/tokumei-works/products/social-30/</link>
+  <guid>https://tokumei-works.github.io/tokumei-works/products/social-30/</guid>
+  <description>X、Instagram、YouTube Shortsに転用できる、匿名運用向けの投稿テーマと本文テンプレート集です。</description>
+</item><item>
+  <title>note有料記事テンプレート集</title>
+  <link>https://tokumei-works.github.io/tokumei-works/products/paid-note-template/</link>
+  <guid>https://tokumei-works.github.io/tokumei-works/products/paid-note-template/</guid>
+  <description>無料部分、有料ライン、有料部分、追記導線までをそのまま組み立てられるnote販売テンプレートです。</description>
+</item><item>
+  <title>有料noteを初めて出す前に決める5項目</title>
+  <link>https://tokumei-works.github.io/tokumei-works/articles/paid-note-first-decisions/</link>
+  <guid>https://tokumei-works.github.io/tokumei-works/articles/paid-note-first-decisions/</guid>
+  <description>匿名で有料noteを出す前の準備を整理する</description>
+</item><item>
+  <title>Xからnote販売へつなげる投稿テンプレ7選</title>
+  <link>https://tokumei-works.github.io/tokumei-works/articles/x-to-note-post-template/</link>
+  <guid>https://tokumei-works.github.io/tokumei-works/articles/x-to-note-post-template/</guid>
+  <description>売り込み感を下げながらnoteへ送客する投稿の型</description>
+</item><item>
+  <title>短尺動画の素材づくりをラクにする流れ</title>
+  <link>https://tokumei-works.github.io/tokumei-works/articles/short-video-material-workflow/</link>
+  <guid>https://tokumei-works.github.io/tokumei-works/articles/short-video-material-workflow/</guid>
+  <description>SNS投稿素材を作るときの動画編集・画面録画の使いどころ</description>
+</item><item>
+  <title>無料部分と有料部分の分け方</title>
+  <link>https://tokumei-works.github.io/tokumei-works/articles/free-paid-note-boundary/</link>
+  <guid>https://tokumei-works.github.io/tokumei-works/articles/free-paid-note-boundary/</guid>
+  <description>購入前の納得感を作り、期待値をそろえる</description>
+</item><item>
+  <title>匿名プロフィールの公開前チェックリスト</title>
+  <link>https://tokumei-works.github.io/tokumei-works/articles/anonymous-profile-checklist/</link>
+  <guid>https://tokumei-works.github.io/tokumei-works/articles/anonymous-profile-checklist/</guid>
+  <description>怪しさを減らし、購入前に安心してもらう</description>
+</item><item>
+  <title>最初の7日間で見る数字と直す場所</title>
+  <link>https://tokumei-works.github.io/tokumei-works/articles/first-seven-days-operation/</link>
+  <guid>https://tokumei-works.github.io/tokumei-works/articles/first-seven-days-operation/</guid>
+  <description>毎日悩まず、週1回だけ判断するための運用</description>
+</item>
+</channel>
+</rss>
