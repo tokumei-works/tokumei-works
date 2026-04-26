@@ -16,6 +16,7 @@ python scripts/run_all.py
 - `dist/note_drafts/`: noteへ貼り付ける有料記事下書き
 - `dist/social_queue.csv`: X/Instagram/YouTube Shorts向け投稿キュー
 - `dist/x_intents.json`: X共有URLの候補
+- `dist/launch_copy.md`: note、X、Instagram、YouTube、Search Console、A8に貼る初期設定文
 
 ## What To Register
 
@@ -41,4 +42,3 @@ python scripts/run_all.py
 ## Safety
 
 全自動での無差別SNS投稿、DM、フォロー、いいね、コメント、自己購入依頼、誇大広告は避けます。初期は「公開物を自動生成し、人間が登録・投稿・販売設定を行う」運用にして、アカウント停止やASP否認のリスクを抑えます。
-

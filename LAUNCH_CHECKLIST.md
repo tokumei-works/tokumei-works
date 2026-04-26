@@ -5,6 +5,7 @@
 ## 1. note
 
 - [ ] ペンネーム、プロフィール、アイコンを整える
+- [ ] `dist/launch_copy.md` のnoteプロフィール文を貼る
 - [ ] 売上受取用の銀行口座を登録する
 - [ ] `dist/note_drafts/` の3本をnoteに貼り付ける
 - [ ] 有料ラインを `<!-- note-paid-line -->` の位置に置く
@@ -43,6 +44,7 @@
 初期はAPI自動投稿ではなく、投稿キューを使います。
 
 - [ ] XプロフィールにGitHub PagesまたはnoteプロフィールURLを置く
+- [ ] `dist/launch_copy.md` のXプロフィール文、固定ポスト、初回投稿を使う
 - [ ] XプロフィールURL: `https://x.com/tokumei_works`
 - [ ] 最初はnote記事URLをプロフィールに置く
 - [ ] Instagramを必要ならプロアカウントへ切り替える

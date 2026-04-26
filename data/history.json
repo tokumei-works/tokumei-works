@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T07:11:38+00:00",
+  "generated_at": "2026-04-26T13:17:05+00:00",
   "published_products": [],
   "social_posts": [
     {
@@ -8,5 +8,8 @@
     {
       "file": "dist\\x_intents.json"
     }
-  ]
+  ],
+  "launch_copy": {
+    "file": "dist\\launch_copy.md"
+  }
 }
